@@ -1,4 +1,4 @@
-# Proyecto Integrador – Optimización de Ingresos Usando Funciones Cuadráticas
+# Desarrollo de una aplicación de escritorio que resuelva problemas de optimización usando derivadas para minimizar costos o maximizar ganancias en proyectos.
 
 Este proyecto implementa una aplicación en **Java**, desarrollada con Programación Orientada a Objetos (POO), que resuelve un problema de **optimización de ingresos** mediante una **función cuadrática**.  
 El sistema permite definir un problema, construir la función matemática, calcular su derivada, identificar el punto óptimo (máximo o mínimo) y mostrar un resultado final estructurado.
